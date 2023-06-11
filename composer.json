@@ -1,5 +1,6 @@
 {
     "name": "igalimov/otus-hw-package",
+    "description": "A package for simple mathematical calculations",
     "type": "library",
     "autoload": {
         "psr-4": {
