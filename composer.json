@@ -1,0 +1,17 @@
+{
+    "name": "igalimov/otus-hw-package",
+    "type": "library",
+    "autoload": {
+        "psr-4": {
+            "Igalimov\\OtusHwPackage\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "y"
+        }
+    ],
+    "require": {
+        "php": ">=7.4"
+    }
+}
